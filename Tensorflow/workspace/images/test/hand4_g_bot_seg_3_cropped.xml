@@ -1,0 +1,26 @@
+<annotation>
+	<folder>g</folder>
+	<filename>hand4_g_bot_seg_3_cropped.jpeg</filename>
+	<path>/home/hantaro/user/Python/thesis/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/g/hand4_g_bot_seg_3_cropped.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>62</ymin>
+			<xmax>400</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

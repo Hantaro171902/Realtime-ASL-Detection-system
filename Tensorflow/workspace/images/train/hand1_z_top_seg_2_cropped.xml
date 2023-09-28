@@ -1,0 +1,26 @@
+<annotation>
+	<folder>z</folder>
+	<filename>hand1_z_top_seg_2_cropped.jpeg</filename>
+	<path>/home/hantaro/user/Python/thesis/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/z/hand1_z_top_seg_2_cropped.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>z</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>1</ymin>
+			<xmax>333</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

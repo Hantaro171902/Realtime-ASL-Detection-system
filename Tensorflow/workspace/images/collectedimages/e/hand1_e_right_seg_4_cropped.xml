@@ -1,0 +1,26 @@
+<annotation>
+	<folder>e</folder>
+	<filename>hand1_e_right_seg_4_cropped.jpeg</filename>
+	<path>/home/hantaro/user/Python/thesis/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/e/hand1_e_right_seg_4_cropped.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>1</ymin>
+			<xmax>348</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

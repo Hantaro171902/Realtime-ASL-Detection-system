@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9</folder>
+	<filename>hand1_9_right_seg_3_cropped.jpeg</filename>
+	<path>/home/hantaro/user/Python/thesis/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/9/hand1_9_right_seg_3_cropped.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>5</ymin>
+			<xmax>343</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
